@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GalShaviner
-- 👀 I’m interested in Mechanical Engineering, Math and Physics
-- 🌱 I’m currently doing a BSc in Mechanical Engineering
-- 📫 you can reach me via my mail gaalshaviner@gmail.com
+- 👋 Hi, I’m @GalShaviner.
+- 👀 I’m interested in numerical analysis, high order numerical methods, quantum computing, computational physics.
+- 🌱 I’m currently doing an MSc in Mechanical Engineering.
+- 📫 you can reach me via my mail gaalshaviner@gmail.com.
